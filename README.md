@@ -19,16 +19,3 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTRlMjJmODItYWIwOS00NGM4L
 https://utoronto.zoom.us/j/82014165350
 
 End of day.
-
-s project will use that lens to assess the impact of the COVID epidemic and the public health policies
-to contain COVID on SES-related health disparities. The resulting assessment will be provided to policymakers in a
-timely and relevant manner in order to inform an equitable policy response to this public health crisis.
-The project team includes experts in health services research, epidemiology, public health, health disparities,
-economics, statistics and education who will use sophisticated modelling and analytical techniques and timely access
-to data on health outcomes, SES and employment to investigate the cross-SES health impacts of the COVID-19
-pandemic, and of the containment measures used to mitigate that pandemic in Ontario.
-The objectives are to:
-1. Measure the set of defined health outcomes across SES strata before and after March 2020 using best available
-data;
-2. Model observed impacts of COVID and containment on a defined set of health outcomes across SES strata using
-sophisticated statistical techniques.
